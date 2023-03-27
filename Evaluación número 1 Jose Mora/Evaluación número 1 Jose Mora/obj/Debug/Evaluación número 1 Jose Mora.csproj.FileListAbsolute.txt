@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\VisualStudio PR2 A2023\Evaluación número 1 Jose Mora\Evaluación número 1 Jose Mora\obj\Debug\Evaluación número 1 Jose Mora.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\VisualStudio PR2 A2023\Evaluación número 1 Jose Mora\Evaluación número 1 Jose Mora\obj\Debug\Evaluación número 1 Jose Mora.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\VisualStudio PR2 A2023\Evaluación número 1 Jose Mora\Evaluación número 1 Jose Mora\obj\Debug\Evaluación número 1 Jose Mora.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\VisualStudio PR2 A2023\Evaluación número 1 Jose Mora\Evaluación número 1 Jose Mora\bin\Debug\Evaluación número 1 Jose Mora.exe.config
+C:\Users\USUARIO\Desktop\VisualStudio PR2 A2023\Evaluación número 1 Jose Mora\Evaluación número 1 Jose Mora\bin\Debug\Evaluación número 1 Jose Mora.exe
+C:\Users\USUARIO\Desktop\VisualStudio PR2 A2023\Evaluación número 1 Jose Mora\Evaluación número 1 Jose Mora\bin\Debug\Evaluación número 1 Jose Mora.pdb
+C:\Users\USUARIO\Desktop\VisualStudio PR2 A2023\Evaluación número 1 Jose Mora\Evaluación número 1 Jose Mora\obj\Debug\Evaluación número 1 Jose Mora.exe
+C:\Users\USUARIO\Desktop\VisualStudio PR2 A2023\Evaluación número 1 Jose Mora\Evaluación número 1 Jose Mora\obj\Debug\Evaluación número 1 Jose Mora.pdb
